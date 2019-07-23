@@ -1,0 +1,99 @@
+body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #eee;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+    margin-bottom: 10px;
+}
+
+.form-signin .checkbox {
+    font-weight: normal;
+}
+
+.form-signin .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+
+.form-signin input {
+    margin-top: 10px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signin button {
+    margin-top: 10px;
+}
+
+.has-error {
+    color: red
+}
+
+.textbox {
+	margin: 0px;
+	width: 730px;
+}
+
+.search-textbox {
+	margin: 0px;
+	width: 50%;
+}
+
+.textarea {
+	margin: 0px;
+	height: 100px;
+	width: 728px;
+}
+
+.search-ranking-combobox{
+	right: 0px;
+	margin: 0px;
+	height: 25px;
+	width: 350px;
+}
+
+.div-align-right{
+	float: right;
+}
+
+.border {
+	border: 1px solid;
+}
+
+.table-width {
+	width: 100%;
+}
+
+.text-align-right {
+	text-align: right;
+}
+
+.text-align-left {
+	text-align: left;
+}
+
+.text-align-center {
+	text-align: center;
+}
+
+.list-tr:hover {
+	background-color: yellow;
+}
