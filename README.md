@@ -14,7 +14,9 @@
  깃허브 주소: https://github.com/an-in-seek/kaCodingTest.git
 
 
- war파일로 만들었습니다.
+ war파일로 만들었습니다.(실행 예: java -jar auth-2.1.6.RELEASE.war)
  war 파일 다운로드: 
+ 
  URL: http://naver.me/F64AZHBK
+ 
  비밀번호: 123456
