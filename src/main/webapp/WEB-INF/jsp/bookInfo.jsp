@@ -8,8 +8,8 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<link href="${contextPath}/resources/css/bootstrap.min.css" rel="stylesheet">
-		<link href="${contextPath}/resources/css/common.css" rel="stylesheet">
+		<link href="css/bootstrap.min.css" rel="stylesheet" type='text/css'>
+      	<link href="css/common.css" rel="stylesheet" type='text/css'>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 		<script type="text/javascript">
 			function goBack(contextPath, pageNo, keyWord) {
@@ -66,7 +66,7 @@
 						</tr>
 						<tr>
 							<td>판매가</td>
-							<td><input type='text' id='sale_price' name='sale_price' class='textbox' value='${requestScope.bookInfo[0].sale_price}' readonly /></td>
+							<td><input type='text' id='sale_price' name='sale_price' class='textbox' value='${requestScope.bookInfo[0].sale_price}'  readonly /></td>
 						</tr>
 						<tr>
 							<td>소개</td>

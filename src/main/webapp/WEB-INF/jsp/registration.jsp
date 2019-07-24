@@ -9,8 +9,9 @@
   <head>
       <meta charset="utf-8">
       <title>회원가입</title>
-      <link href="${contextPath}/resources/css/bootstrap.min.css" rel="stylesheet">
-      <link href="${contextPath}/resources/css/common.css" rel="stylesheet">
+      <link href="css/bootstrap.min.css" rel="stylesheet" type='text/css'>
+      <link href="css/common.css" rel="stylesheet" type='text/css'>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
   </head>
 
   <body>
@@ -41,6 +42,5 @@
             <button class="btn btn-lg btn-primary btn-block" type="submit">가입하기</button>
         </form:form>
     </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
   </body>
 </html>
